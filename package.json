@@ -1,0 +1,15 @@
+{
+	"name": "theme-c64-inspired",
+	"version": "0.0.1",
+	"publisher": "joyrex",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "C64 Inspired",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme-c64-inspired.json"
+			}
+		]
+	}
+}
