@@ -1,7 +1,7 @@
 {
 	"name": "theme-c64-inspired",
 	"version": "0.0.1",
-	"publisher": "joyrex",
+	"publisher": "kalieye",
 	"engines": { "vscode": "*" },
 	"contributes": {
 		"themes": [
